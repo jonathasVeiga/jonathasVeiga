@@ -28,7 +28,4 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 [![jonathasVeiga](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasVeiga&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathasVeiga&show_icons=true&theme=dark&line_height=40" alt="**Jonathas Veiga** github stats"/>
 </a>
