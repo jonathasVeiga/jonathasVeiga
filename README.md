@@ -1,6 +1,6 @@
 ### Olá Me chamo Jonathas 👋
 
-- 🌱 Atualmente estudo Bootstrap 5
+- 🌱 Atualmente estudo JavaScript
 - 😄 Pronome: Ele/Dele
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
